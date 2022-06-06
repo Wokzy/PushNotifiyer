@@ -1,0 +1,2 @@
+SERVER_ADDR = ('localhost', 1237)
+DATA_SERVER_ADDR = ('127.0.0.1', 9500)
